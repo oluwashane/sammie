@@ -41,7 +41,7 @@ body {
 
 .in-button-app:hover {
     transition: all ease 200ms;
-    background-color: #FCB42D;
+    background-color: #d54150;
 }
 
 @media (max-width: 960px) {
@@ -60,7 +60,7 @@ body {
 
 .in-highlight::before {
     content: '';
-    background: #FCB42D;
+    background: #d54150;
     border-radius: 5px;
     position: absolute;
     left: 0;
@@ -78,7 +78,7 @@ body {
 .in-list-check>li::before {
     font-family: 'Font Awesome 5 Free';
     font-weight: 900;
-    color: #FCB42D;
+    color: #d54150;
     content: "\f058";
     position: absolute;
     top: 0;
@@ -557,7 +557,7 @@ footer .uk-text-small {
 }
 
 .in-blog-1 .uk-card-body a.uk-button-text {
-    color: #FCB42D;
+    color: #d54150;
 }
 
 .in-blog-1 .uk-card-body a.uk-button-text:hover {
@@ -601,7 +601,7 @@ footer .uk-text-small {
 }
 
 .in-blog-3 .uk-card-default a.uk-button-text {
-    color: #FCB42D;
+    color: #d54150;
 }
 
 .in-blog-3 .uk-card-default a.uk-button-text:hover {
@@ -619,7 +619,7 @@ footer .uk-text-small {
 }
 
 .in-blog-4 a.uk-button-text {
-    color: #FCB42D;
+    color: #d54150;
 }
 
 .in-blog-4 a.uk-button-text:hover {
@@ -757,7 +757,7 @@ footer .uk-text-small {
 
 .in-card-8 .uk-card {
     border: 1px solid #e8e8e8;
-    border-top: 3px solid #fcb42d;
+    border-top: 3px solid #d54150;
     background-color: #fff;
     padding-top: 0px;
     padding-bottom: 0px;
@@ -939,7 +939,7 @@ footer .uk-text-small {
 }
 
 .in-card-13 .uk-card-default .in-icon-wrap {
-    background-color: #FCB42D;
+    background-color: #d54150;
     color: #fff;
 }
 
@@ -954,7 +954,7 @@ footer .uk-text-small {
 .in-card-14 .uk-card-default .in-icon-wrap.small {
     width: 24px;
     height: 24px;
-    background-color: #FCB42D;
+    background-color: #d54150;
 }
 
 .in-card-14 .uk-card-default a {
@@ -980,7 +980,7 @@ footer .uk-text-small {
 }
 
 .in-card-16 .uk-card-default {
-    border: 1px solid #fcb42d;
+    border: 1px solid #d54150;
     background-color: #fff;
 }
 
@@ -1298,12 +1298,12 @@ footer .uk-text-small {
 }
 
 .in-content-11 .uk-card-default:hover {
-    border-color: #FCB42D;
+    border-color: #d54150;
     text-decoration: none;
 }
 
 .in-content-11 .uk-card-default:hover .in-icon-wrap {
-    background-color: #FCB42D;
+    background-color: #d54150;
     transition: all ease .5s;
 }
 
@@ -1317,7 +1317,7 @@ footer .uk-text-small {
 }
 
 .in-counter-2 .uk-divider-small::after {
-    border-color: #FCB42D;
+    border-color: #d54150;
 }
 
 .in-counter-4 .uk-card-default {
@@ -1343,13 +1343,13 @@ footer .uk-text-small {
     font-style: normal;
     font-weight: 900;
     font-size: 14px;
-    color: #FCB42D;
+    color: #d54150;
     margin: 5px 12px 5px 0;
     float: left;
 }
 
 .in-faq-1 .uk-open .uk-accordion-title {
-    color: #FCB42D;
+    color: #d54150;
     border-bottom: 0;
 }
 
@@ -1397,7 +1397,7 @@ footer .uk-text-small {
 }
 
 .in-faq-2 .uk-accordion-title[aria-expanded="true"] .uk-card {
-    background-color: #FCB42D;
+    background-color: #d54150;
     color: #333333;
     border-bottom-left-radius: 0px;
     border-bottom-right-radius: 0px;
@@ -1446,7 +1446,7 @@ footer .uk-text-small {
 }
 
 .in-faq-3 .uk-open .uk-accordion-title {
-    color: #FCB42D;
+    color: #d54150;
 }
 
 .in-faq-3 .uk-accordion-content {
@@ -1483,7 +1483,7 @@ footer .uk-text-small {
 }
 
 .in-faq-4 .uk-open .uk-accordion-title {
-    color: #FCB42D;
+    color: #d54150;
 }
 
 .in-faq-4 .uk-accordion-content {
@@ -1506,7 +1506,7 @@ footer .uk-text-small {
 }
 
 .in-faq-5 .uk-open .uk-accordion-title {
-    color: #FCB42D;
+    color: #d54150;
     border-bottom: 0;
 }
 
@@ -1641,22 +1641,22 @@ footer .uk-text-small {
     font-family: 'Font Awesome 5 Free';
     font-weight: 900;
     content: "\f00c";
-    color: #FCB42D;
+    color: #d54150;
     top: 1px;
     left: 4px;
 }
 
 .in-pricing-1.in-pricing-featured .uk-card {
-    border-color: #FCB42D;
+    border-color: #d54150;
 }
 
 .in-pricing-1.in-pricing-featured .uk-card:hover {
     background-color: white;
-    border-color: #FCB42D;
+    border-color: #d54150;
 }
 
 .in-pricing-1.in-pricing-featured .uk-card-header .uk-label {
-    background-color: #FCB42D;
+    background-color: #d54150;
 }
 
 .in-pricing-2 .uk-card {
@@ -1701,11 +1701,11 @@ footer .uk-text-small {
 
 .in-pricing-2.in-pricing-featured .uk-card:hover {
     background-color: white;
-    border-color: #FCB42D;
+    border-color: #d54150;
 }
 
 .in-pricing-2.in-pricing-featured .uk-card-header {
-    background-color: #FCB42D;
+    background-color: #d54150;
 }
 
 .in-pricing-3 .uk-card {
@@ -1746,16 +1746,16 @@ footer .uk-text-small {
 }
 
 .in-pricing-3.in-pricing-featured .uk-card {
-    border-color: #FCB42D;
+    border-color: #d54150;
 }
 
 .in-pricing-3.in-pricing-featured .uk-card:hover {
     background-color: white;
-    border-color: #FCB42D;
+    border-color: #d54150;
 }
 
 .in-pricing-3.in-pricing-featured .uk-card-header {
-    border-color: #FCB42D;
+    border-color: #d54150;
 }
 
 .in-pricing-3.in-pricing-featured .uk-card-body .uk-list-divider>li:nth-child(n+2) {
@@ -1798,26 +1798,26 @@ footer .uk-text-small {
     font-family: 'Font Awesome 5 Free';
     font-weight: 900;
     content: "\f00c";
-    color: #FCB42D;
+    color: #d54150;
     top: 1px;
     left: 4px;
 }
 
 .in-pricing-4.in-pricing-featured .uk-card {
-    border-color: #FCB42D;
+    border-color: #d54150;
 }
 
 .in-pricing-4.in-pricing-featured .uk-card:hover {
     background-color: white;
-    border-color: #FCB42D;
+    border-color: #d54150;
 }
 
 .in-pricing-4.in-pricing-featured .uk-card-header {
-    border-color: #FCB42D;
+    border-color: #d54150;
 }
 
 .in-pricing-4.in-pricing-featured .uk-card-header .in-icon-wrap {
-    background-color: #FCB42D;
+    background-color: #d54150;
     color: #fff;
 }
 
@@ -1871,16 +1871,16 @@ footer .uk-text-small {
 }
 
 .in-pricing-5.in-pricing-featured .uk-card {
-    border-color: #FCB42D;
+    border-color: #d54150;
 }
 
 .in-pricing-5.in-pricing-featured .uk-card:hover {
     background-color: white;
-    border-color: #FCB42D;
+    border-color: #d54150;
 }
 
 .in-pricing-5.in-pricing-featured .uk-card-header .uk-label {
-    background-color: #FCB42D;
+    background-color: #d54150;
 }
 
 .in-pricing-6 .uk-card {
@@ -1933,22 +1933,22 @@ footer .uk-text-small {
     font-family: 'Font Awesome 5 Free';
     font-weight: 900;
     content: "\f00c";
-    color: #FCB42D;
+    color: #d54150;
     top: 1px;
     left: 4px;
 }
 
 .in-pricing-6.in-pricing-featured .uk-card-default:hover {
     background-color: white;
-    border-color: #FCB42D;
+    border-color: #d54150;
 }
 
 .in-pricing-6.in-pricing-featured .uk-card-header {
-    border-color: #FCB42D;
+    border-color: #d54150;
 }
 
 .in-pricing-6.in-pricing-featured .uk-card-header .uk-label {
-    background-color: #FCB42D;
+    background-color: #d54150;
 }
 
 /* team component */
@@ -2100,7 +2100,7 @@ footer .uk-text-small {
 .in-timeline-2 .in-timeline-item:before {
     width: 13px;
     height: 13px;
-    background: #FCB42D;
+    background: #d54150;
     border: 10px solid #fff;
     border-radius: 50%;
     position: absolute;
@@ -2198,7 +2198,7 @@ body>div.in-loader div {
     width: 1rem;
     height: 1rem;
     margin: 2rem 0.3rem;
-    background: #FCB42D;
+    background: #d54150;
     border-radius: 50%;
     -webkit-animation: 0.9s bounce infinite alternate;
             animation: 0.9s bounce infinite alternate;
@@ -2395,7 +2395,7 @@ a.in-generic-email:hover {
 }
 
 .in-icon-wrap.primary-color {
-    background-color: #FCB42D;
+    background-color: #d54150;
     color: #fff;
 }
 
@@ -2648,7 +2648,7 @@ a.in-generic-email:hover {
     position: fixed;
     right: 40px;
     bottom: 40px;
-    background-color: #FCB42D;
+    background-color: #d54150;
     border-radius: 10px;
     opacity: 0;
 }
@@ -2691,7 +2691,7 @@ a.in-totop {
     width: 106px;
     bottom: -41px;
     position: relative;
-    background: #FCB42D;
+    background: #d54150;
 }
 
 #disqus_thread iframe {
@@ -8732,7 +8732,7 @@ readers do not read off random characters that represent icons */
 }
 
 .in-equity-breadcrumb {
-    background: #FCB42D;
+    background: #d54150;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
     margin-bottom: 20px;
 }
@@ -8817,7 +8817,7 @@ readers do not read off random characters that represent icons */
 }
 
 .in-equity-2 .in-feature-box a:hover {
-    color: #FCB42D;
+    color: #d54150;
     text-decoration: none;
 }
 
@@ -8839,7 +8839,7 @@ readers do not read off random characters that represent icons */
 }
 
 .in-equity-3 .uk-text-warning {
-    color: #FCB42D !important;
+    color: #d54150 !important;
 }
 
 .in-equity-3 .uk-card {
@@ -9206,11 +9206,11 @@ readers do not read off random characters that represent icons */
     width: 56px;
     height: 56px;
     background-color: #F5F7F9;
-    box-shadow: inset 0px 0px 0px 2px #FCB42D;
+    box-shadow: inset 0px 0px 0px 2px #d54150;
     border: 18px solid #f5f7f9;
     font-size: 22px;
     font-family: "Archivo", sans-serif;
-    color: #FCB42D;
+    color: #d54150;
     margin: -20px 0 -25px;
     position: relative;
     z-index: 0.1;
@@ -9323,7 +9323,7 @@ readers do not read off random characters that represent icons */
 
 .in-equity-12 .uk-card-secondary> :not([class*=uk-card-media]) .uk-button-primary {
     color: #252526;
-    background-color: #FCB42D;
+    background-color: #d54150;
 }
 
 .in-equity-12 .in-icon-wrap {
@@ -9344,13 +9344,13 @@ readers do not read off random characters that represent icons */
 }
 
 .in-equity-12 .in-steps.active-step {
-    border-color: #FCB42D;
+    border-color: #d54150;
     cursor: pointer;
 }
 
 .in-equity-12 .in-steps.active-step .in-icon-wrap {
     color: #252526;
-    background: #FCB42D;
+    background: #d54150;
     transition: all ease 600ms;
 }
 
@@ -9624,7 +9624,7 @@ readers do not read off random characters that represent icons */
 }
 
 .in-equity-16 .uk-card-default i {
-    color: #FCB42D;
+    color: #d54150;
     font-size: 38px;
     background: #fff;
     border-left: 25px solid #fff;
@@ -9644,7 +9644,7 @@ readers do not read off random characters that represent icons */
 
 .in-equity-16 .uk-card-default:hover {
     cursor: pointer;
-    border-color: #FCB42D;
+    border-color: #d54150;
     text-decoration: none;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
 }
@@ -9684,7 +9684,7 @@ readers do not read off random characters that represent icons */
 }
 
 .in-equity-16 .in-equity-video i {
-    color: #FCB42D;
+    color: #d54150;
     font-size: 24px;
     position: absolute;
     top: 25px;
@@ -9755,7 +9755,7 @@ readers do not read off random characters that represent icons */
 }
 
 .in-equity-17 .in-equity-pricing div:last-child .uk-card-default {
-    border-color: #FCB42D;
+    border-color: #d54150;
 }
 
 @media (max-width: 960px) {
