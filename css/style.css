@@ -229,7 +229,7 @@ header .in-optional-nav .uk-button-text {
     position: absolute;
     right: 2px;
     -webkit-animation: float 6s ease-in-out infinite;
-            animation: float 6s ease-in-out infinite;
+    animation: float 6s ease-in-out infinite;
 }
 
 .in-slideshow .uk-card-small {
@@ -267,7 +267,7 @@ header .in-optional-nav .uk-button-text {
     width: 11px;
     display: block;
     -webkit-animation: rotate 2s linear infinite;
-            animation: rotate 2s linear infinite;
+    animation: rotate 2s linear infinite;
 }
 
 @-webkit-keyframes rotate {
@@ -2167,6 +2167,7 @@ footer .uk-text-small {
         height: 0;
     }
 }
+
 @keyframes hideLoader {
     0% {
         width: 100%;
@@ -2201,17 +2202,17 @@ body>div.in-loader div {
     background: #d54150;
     border-radius: 50%;
     -webkit-animation: 0.9s bounce infinite alternate;
-            animation: 0.9s bounce infinite alternate;
+    animation: 0.9s bounce infinite alternate;
 }
 
 body>div.in-loader div:nth-child(2) {
     -webkit-animation-delay: 0.3s;
-            animation-delay: 0.3s;
+    animation-delay: 0.3s;
 }
 
 body>div.in-loader div:nth-child(3) {
     -webkit-animation-delay: 0.6s;
-            animation-delay: 0.6s;
+    animation-delay: 0.6s;
 }
 
 body:not(.loaded)>div.in-loader {
@@ -2224,7 +2225,7 @@ body:not(.loaded) {
 
 body.loaded>div.in-loader {
     -webkit-animation: hideLoader 0.5s linear 0.5s forwards;
-            animation: hideLoader 0.5s linear 0.5s forwards;
+    animation: hideLoader 0.5s linear 0.5s forwards;
 }
 
 @-webkit-keyframes bounce {
@@ -8995,28 +8996,28 @@ readers do not read off random characters that represent icons */
     width: 270px;
     height: 270px;
     -webkit-animation: float 6s ease-in-out infinite;
-            animation: float 6s ease-in-out infinite;
+    animation: float 6s ease-in-out infinite;
 }
 
 .in-equity-7 .in-symbol-2 {
     width: 205px;
     height: 205px;
     -webkit-animation: float 6s ease-in-out infinite;
-            animation: float 6s ease-in-out infinite;
+    animation: float 6s ease-in-out infinite;
 }
 
 .in-equity-7 .in-symbol-3 {
     width: 140px;
     height: 140px;
     -webkit-animation: float 6s ease-in-out infinite;
-            animation: float 6s ease-in-out infinite;
+    animation: float 6s ease-in-out infinite;
 }
 
 .in-equity-7 .in-symbol-4 {
     width: 105px;
     height: 105px;
     -webkit-animation: float 6s ease-in-out infinite;
-            animation: float 6s ease-in-out infinite;
+    animation: float 6s ease-in-out infinite;
 }
 
 .in-equity-7 .in-symbol-5 {
@@ -9679,7 +9680,7 @@ readers do not read off random characters that represent icons */
     background: rgba(255, 255, 255, 0.9);
     box-shadow: 0 0 0 0 white;
     -webkit-animation: pulse-white 2s infinite;
-            animation: pulse-white 2s infinite;
+    animation: pulse-white 2s infinite;
     z-index: 1;
 }
 
